@@ -164,3 +164,6 @@ Rails 3 (config/application.rb is detected)
 * install rails 3 plugins
   * [rails3_server_static_assets](https://github.com/pedro/rails3_serve_static_assets)
 
+## Maintainers
+
+- [Thiago Belem](https://github.com/TiuTalk)
